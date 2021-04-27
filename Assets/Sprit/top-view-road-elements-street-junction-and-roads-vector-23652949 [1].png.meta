@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 391c70816f9cc064b9f7a7d82c145866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7677196403950591608
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_0
+  - first:
+      213: 4093749399170417315
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_1
+  - first:
+      213: -8485247390399783796
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_2
+  - first:
+      213: -8194585880370368834
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_3
+  - first:
+      213: 7280593883705470471
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_4
+  - first:
+      213: -3775110432511138985
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_5
+  - first:
+      213: -9040901488986679219
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_6
+  - first:
+      213: 5733684982318722375
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_7
+  - first:
+      213: -7111819662501151085
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_8
+  - first:
+      213: -719821688228139372
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_9
+  - first:
+      213: 6876668326889352996
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_10
+  - first:
+      213: 5537125954569904040
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_11
+  - first:
+      213: -2026996372693985378
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_12
+  - first:
+      213: 7643899929914139143
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_13
+  - first:
+      213: 8752078101631317772
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_14
+  - first:
+      213: -4132860876240517881
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_15
+  - first:
+      213: 5031607137904009948
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_16
+  - first:
+      213: -5568218184256481914
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_17
+  - first:
+      213: -7880849325098989639
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_18
+  - first:
+      213: -6051275075310210718
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_19
+  - first:
+      213: -3353996614835918338
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_20
+  - first:
+      213: -1043093515977719676
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_21
+  - first:
+      213: 158272118358656766
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_22
+  - first:
+      213: 5972719725487118984
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_23
+  - first:
+      213: 1332765462934445242
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_24
+  - first:
+      213: -1521288880226014416
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_25
+  - first:
+      213: -497411906983957513
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_26
+  - first:
+      213: 6882367266953044200
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_27
+  - first:
+      213: 5827967045600987023
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_28
+  - first:
+      213: -1295189486359672633
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_29
+  - first:
+      213: 1989637259439417395
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_30
+  - first:
+      213: -4676330068772149721
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_31
+  - first:
+      213: -3727927823441360243
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_32
+  - first:
+      213: -2866267063913231292
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_33
+  - first:
+      213: 3386881711627026939
+    second: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1044
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a28501936befc830800000000000000
+      internalID: 4093749399170417315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 896
+        width: 303
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c19e784785e3a80800000000000000
+      internalID: -8485247390399783796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_3
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 916
+        width: 294
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea71ffe8bf64e80800000000000000
+      internalID: -8194585880370368834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_4
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 866
+        width: 187
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e6520209dd90560800000000000000
+      internalID: 7280593883705470471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1087
+        width: 223
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7536d42201d1c9bc0800000000000000
+      internalID: -3775110432511138985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 999
+        width: 223
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e2a830dfda206f0800000000000000
+      internalID: -719821688228139372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 869
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97d19cd989aed3e0800000000000000
+      internalID: -2026996372693985378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 913
+        width: 223
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026a25bc76941a60800000000000000
+      internalID: 7643899929914139143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 825
+        width: 223
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a618880cd3d540800000000000000
+      internalID: 5031607137904009948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 738
+        width: 223
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a7da59d53471d0800000000000000
+      internalID: -3353996614835918338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 595
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48082a849ff2681f0800000000000000
+      internalID: -1043093515977719676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_23
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 441
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad0ac02fc53e250800000000000000
+      internalID: 5972719725487118984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_24
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 696
+        width: 5
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdd13902fee7210800000000000000
+      internalID: 1332765462934445242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_25
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 696
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6065d2db43eae0800000000000000
+      internalID: -1521288880226014416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_26
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 696
+        width: 6
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbeb298186d819f0800000000000000
+      internalID: -497411906983957513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_27
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 517
+        width: 369
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02380a094138f50800000000000000
+      internalID: 6882367266953044200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 691
+        width: 223
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cabb662911e050800000000000000
+      internalID: 5827967045600987023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 551
+        width: 223
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c806bc3600960ee0800000000000000
+      internalID: -1295189486359672633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 300
+        width: 244
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726ab5624965a1fb0800000000000000
+      internalID: -4676330068772149721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 406
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a8b7f556db34cc0800000000000000
+      internalID: -3727927823441360243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 218
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ccc00aa49f838d0800000000000000
+      internalID: -2866267063913231292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-road-elements-street-junction-and-roads-vector-23652949 [1]_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 106
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1cbc5e8fe900f20800000000000000
+      internalID: 3386881711627026939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
